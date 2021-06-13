@@ -1,1 +1,1 @@
-# class-project-42
+# C42
